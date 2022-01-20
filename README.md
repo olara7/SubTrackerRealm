@@ -1,8 +1,6 @@
 # SubTrackerRealm
 
-## Table of Contents
-
-# Overview
+## Overview
 
 ### Description
 This app is a subscription tracker that tracks the subsciptions of the user.
