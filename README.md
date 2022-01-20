@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img width="1349" alt="Screen Shot 2022-01-20 at 1 07 05 PM" src="https://user-images.githubusercontent.com/54912970/150422290-ffdcd111-5a58-4b95-83c1-20cce8e83ede.png">
+<img width="1349" alt="Screen Shot 2022-01-20 at 1 12 35 PM" src="https://user-images.githubusercontent.com/54912970/150423153-7230a132-bc2f-4349-b1b1-23d06cd94283.png">
 
 <img width="1349" alt="Screen Shot 2022-01-20 at 12 53 12 PM" src="https://user-images.githubusercontent.com/54912970/150420556-475a76a9-001a-4165-9145-bf287ccc2d7e.png">
 
