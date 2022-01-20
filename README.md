@@ -3,6 +3,8 @@
 ## Overview
 
 ### Description
+##### Technologies used: SwiftUI | Realm
+
 This app is a subscription tracker with a neumorphic design that tracks the subsciptions of the user.
 
 ## Stories
