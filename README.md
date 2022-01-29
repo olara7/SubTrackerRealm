@@ -32,8 +32,8 @@ Light Mode <img src="https://user-images.githubusercontent.com/54912970/15031804
 
 ### Subscription Model
 - Sub Model
-  - id : to identify the subscription, created automatically by Realm
-  - title : subscription title
-  - price : subscription price
-  - active : true if subscription is active, false if subscription is inactive
-  - renewDay : renewal day of the subscription
+  - id : ObjectId - to identify the subscription, created automatically by Realm
+  - title : String - subscription title
+  - price : Double - subscription price
+  - active : Boolean - true if subscription is active, false if subscription is inactive
+  - renewDay : Int - renewal day of the subscription
