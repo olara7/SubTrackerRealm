@@ -9,7 +9,7 @@
 ### Description
 ##### Technologies used: SwiftUI | Realm
 
-This app is a subscription tracker with a neumorphic design that tracks the subsciptions of the user.
+This app is a subscription tracker with a neumorphic design that tracks the subsciptions of the user. I decided to make this app because I have subscriptions in several places and this would help me keep track of them.
 
 ## Stories
 
